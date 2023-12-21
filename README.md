@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> |
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_security-6DB33F?style=flat-square&amp;logo=springsecurity&amp;logoColor=white">
