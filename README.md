@@ -27,7 +27,8 @@
 </div>
 
 ## Status
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reako99&layout=compact)
+ <br>
 <img src="https://github-readme-stats.vercel.app/api?username=reako99&show_icons=true">
 
 
